@@ -1,0 +1,18 @@
+{
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "livePreview": true,
+  "readableLineLength": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./img",
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

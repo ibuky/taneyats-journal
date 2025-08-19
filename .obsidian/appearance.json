@@ -1,0 +1,13 @@
+{
+  "accentColor": "#f3633f",
+  "textFontFamily": "Moralerspace Neon HWJPDOC",
+  "interfaceFontFamily": "Moralerspace Neon HWJPDOC",
+  "monospaceFontFamily": "Moralerspace Neon HWJPDOC",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "main"
+  ]
+}

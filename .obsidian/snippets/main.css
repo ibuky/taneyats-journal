@@ -1,0 +1,72 @@
+.cm-s-obsidian .cm-line.HyperMD-header {
+}
+
+/* H1 Heading */
+.markdown-preview-view h1,
+.cm-s-obsidian .HyperMD-header-1 {
+  font-size: 2em;
+  font-weight: bold;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #0a335c; /* DodgerBlue */
+  color: #1e90ff;
+}
+
+/* H2 Heading */
+.markdown-preview-view h2,
+.cm-s-obsidian .HyperMD-header-2 {
+  font-size: 1.75em;
+  font-weight: bold;
+  background-color: #0e3d6b;
+  color: #ffffff;
+  border-radius: 8px;
+}
+
+/* H3 Heading */
+.markdown-preview-view h3,
+.cm-s-obsidian .HyperMD-header-3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #238df7; /* OrangeRed */
+  border-bottom: 2px dotted #238df7;
+}
+
+/* H4 Heading */
+.markdown-preview-view h4,
+.cm-s-obsidian .HyperMD-header-4 {
+  font-size: 1.25em;
+  font-weight: bold;
+
+  color: #238df7; /* DarkViolet */
+}
+
+/* H5 Heading */
+.markdown-preview-view h5,
+.cm-s-obsidian .HyperMD-header-5 {
+  font-size: 1.1em;
+  font-weight: bold;
+
+  color: #ff1493; /* DeepPink */
+}
+
+.div-info, .div-success, .div-warning, .div-error {
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+    font-weight: bold;
+}
+
+.div-info {
+    color: #059;
+    background-color: #BEF;
+}
+.div-success {
+    color: #270;
+    background-color: #DFF2BF;
+}
+.div-warning {
+    color: #9F7000;
+    background-color: #FEEFB3;
+}
+.div-error {
+    color: #D8000C;
+    background-color: #FFBABA;
+}

@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "1e0508a71ba4fc4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "708b33cd4d10357d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ebc86ea4b1045f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEMINI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GEMINI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "635a81778f64412a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f2a70d281486f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf70e34608149fa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6bd5fa1cccdc0eb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb1b86ed19dfc13e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "d183cfd30f00cf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d393d38ba5cd3fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed0671ac424ef646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "b6c877bf2b4a8736",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test"
+            }
+          },
+          {
+            "id": "e0985bba168a8d1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "233c46085791f5ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "art/keycap-modeling.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of keycap-modeling"
+            }
+          },
+          {
+            "id": "6f0e5631937407b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c72ea2c9de43da51",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\ivuki\\projects\\taneyats-journal",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "pwsh",
+                    "name": "pwsh",
+                    "platforms": {
+                      "darwin": false,
+                      "linux": false,
+                      "win32": true
+                    },
+                    "pythonExecutable": "python",
+                    "restoreHistory": false,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "fontFamily": "Sarasa Term J Regular",
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+            }
+          },
+          {
+            "id": "f830846c9c30947c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 696.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "c72ea2c9de43da51",
+  "lastOpenFiles": [
+    "GEMINI.md",
+    "Welcome.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "blog/cbt/A-1_ai_selfcare_introduction.md",
+    "blog/cbt/A-5_summary_and_future.md",
+    "blog/cbt/A-4_assertion_practice.md",
+    "blog/cbt/A-3_cbt_practice.md",
+    "blog/cbt/A-2_cbt_basics.md",
+    "blog/cbt/A-1.5_ai_guideline_explanation.md",
+    "blog/taneyatree/ai/Gemini/gemini-cli-custom-slash-command.md",
+    "blog/taneyatree/ai/Gemini/GEMINI-from-blogposts.md",
+    "blog/taneyatree/ai/Ollama/ollama-gpt-oss.d.md",
+    "blog/taneyatree/ai/wan/wan2.2-5b-comparison.md",
+    "blog/taneyatree/ai/Ollama",
+    "QWEN.md",
+    "blog/taneyatree/ai/wan",
+    "blog/taneyatree/ai/Qwen",
+    "blog/taneyatree/ai/GPT-OSS",
+    "blog/taneyatree/ai/Gemini",
+    "blog/taneyatree/ai/NotebookLM",
+    "blog/taneyatree/ai/img/Pasted image 20250819121956.png",
+    "blog/taneyatree/ai/img/Pasted image 20250819121952.png",
+    "blog/taneyatree/ai/img/Pasted image 20250819121935.png",
+    "sample-meeting-minutes.txt",
+    "blog/img/Pasted image 20250818230658.png",
+    "blog/img",
+    "llm-mentahlealth/drafts",
+    "childrear/piyolog/img/Pasted image 20250818132412.png",
+    "blog/autogen/2025/08/img/Pasted image 20250818111809.png",
+    "blog/autogen/2025/08/img/Pasted image 20250818111700.png",
+    "blog/autogen/2025/08/img/Pasted image 20250818111333.png",
+    "blog/autogen/2025/08/img/Pasted image 20250818111250.png",
+    "blog/autogen/2025/08/img/Pasted image 20250818111144.png",
+    "無題のファイル.canvas"
+  ]
+}
